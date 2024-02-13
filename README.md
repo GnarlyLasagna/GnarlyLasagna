@@ -9,7 +9,7 @@ My Repos include
 
 And a few random small repos that exist from me learning something new like
 - 🍎IOS development using Swift.ui
-- 🚢Using Docker containers to package my software and push it to Docker Hub
+- 🐳Using Docker containers to package my software and push it to Docker Hub
 - 🎮Making a starting template MakeFile to compile C code for the Playdate console
 
 
