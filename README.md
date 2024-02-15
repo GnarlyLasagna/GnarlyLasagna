@@ -4,13 +4,15 @@
 ## Im a Programmer and enjoyer of Software
   
 My Repos include
-- 📲Front End applications using Vue, React.js, and React Native
-- 💻Back End applications using Go, Node.js and Python
+- 🖥️Front End applications using Vue, React.js, and React Native
+- 💾Back End applications using Go, Node.js and Python with SQL or NoSQL
 
 And a few random small repos that exist from me learning something new like
 - 📊Successfully using Continuous Integration and Continuous Delivery (CI/CD) with GitHub Actions
 - 🍎IOS development using Swift.ui
 - 🐳Using Docker containers to package my software and push it to Docker Hub
+- ⛴️Using Kubernetes to manages collections of Docker containers
+
 
 
 
