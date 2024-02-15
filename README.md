@@ -8,9 +8,11 @@ My Repos include
 - 💻Back End applications using Go, Node.js and Python
 
 And a few random small repos that exist from me learning something new like
+- 📊Successfully using Continuous Integration and Continuous Delivery (CI/CD) with GitHub Actions
 - 🍎IOS development using Swift.ui
 - 🐳Using Docker containers to package my software and push it to Docker Hub
-- 🎮Making a starting template MakeFile to compile C code for the Playdate console
+
+
 
 
 
