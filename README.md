@@ -2,6 +2,8 @@
 
 ## My Name Is Evan Dolatowski
 ## Im a Programmer and enjoyer of Software
+## Certified Comptia A+, Network+ and Security+
+
   
 My Repos include
 - 🖥️Front End applications using Vue, React.js, and React Native
