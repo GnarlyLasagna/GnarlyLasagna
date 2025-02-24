@@ -2,7 +2,7 @@
 
 ## My Name Is Evan Dolatowski
 ## Im a Programmer and enjoyer of Software
-## Certified Comptia A+, Network+ and Security+
+## Certified Comptia A+, Comptia Network+, and Comptia Security+
 
   
 My Repos include
